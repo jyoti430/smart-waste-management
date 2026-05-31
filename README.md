@@ -1,5 +1,9 @@
 # Smart Waste Management System ♻️
 
+## Demo
+
+![Gradio Demo](images/gradio_demo.png)
+
 ## Overview
 
 Smart Waste Management System is an AI-powered image classification project that identifies waste materials and categorizes them into six classes:
