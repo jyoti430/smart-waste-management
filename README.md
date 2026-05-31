@@ -77,7 +77,7 @@ The model was trained on a waste image dataset containing six waste categories:
 
 ### Sample Predictions
 
-![Gradio Demo](images/gradio_demo.png)
+![Sample Prediction](images/sample_prediction.png)
 
 ---
 
