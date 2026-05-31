@@ -1,5 +1,7 @@
 # Smart Waste Management System ♻️
 
+An AI-powered waste classification system using EfficientNetV2B2 and transfer learning to classify waste into six categories with 92.67% validation accuracy.
+
 ## Demo
 
 ![Gradio Demo](images/gradio_demo.png)
